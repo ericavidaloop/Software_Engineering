@@ -2,11 +2,38 @@ header{
     background-color: aquamarine;
     border-radius:50px;
     border:#238036 solid 10px;
+    text-decoration: #3A6F43;
 }
 body{
     margin: 0;
    
 }
+nav{
+    background-color: #67C090;
+    text-align: center;
+    padding: 10px;
+    text-wrap: #279556;
+    border-radius: 50px;
+    border: 50px;
+    
+}
+.ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex; 
+    justify-content: center; 
+    gap: 20px;
+    font-size: larger;
+    
+}
+.li{
+    color: #3D5300;
+    text-decoration: 10px;
+    border-right: 1px solid #3D5300; 
+    padding: 8px 15px;
+}
+
 main{
     margin: 10px;
     background-color: aquamarine;
@@ -17,4 +44,13 @@ main{
     border-radius:40px;
     border: #238036 solid 10px;
 }
+h3{
+    background-color: #23804b;
+    border-width:20px ;
+    border-radius:10px ;
+}
+h2{
+    border-radius: 20px;
+}
+
 
